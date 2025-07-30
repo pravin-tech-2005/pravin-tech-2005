@@ -1,16 +1,46 @@
-## Hi there 👋
+# 👋 Hi, I'm Pravin R.
 
-<!--
-**pravin-tech-2005/pravin-tech-2005** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Aspiring Full Stack Developer(MEAN) | 💡 Lifelong Learner | 💻 Problem Solver  
 
-Here are some ideas to get you started:
+Welcome to my GitHub! I'm passionate about building clean, efficient, and scalable web applications. I'm currently focused on strengthening my Data Structures & Algorithms (DSA) and contributing to open-source projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🔧 Tech Stack
+
+- 🌐 Frontend: HTML, CSS, Bootstrap
+- 🛠️ Backend: python,java(learning)
+- 🗃️ Database: MongoDB, MySQL
+- ⚙️ Tools: Git, GitHub, VS Code, Postman
+
+---
+
+## 📈 Current Focus
+
+- 🔍 Mastering DSA through LeetCode & HackerRank
+- 📚 Building full-stack web projects
+- 🌱 Learning TypeScript & Next.js
+
+---
+
+## 📂 Projects
+
+Here are a few highlighted projects:
+
+- 🎯 **Portfolio Website** – Personal portfolio built with HTML/CSS/JavaScript  
+- 📊 **Task Manager App** – Full-stack to-do application with user authentication  
+- 📦 **GitHub Finder** – Search GitHub users using GitHub API (React-based)
+
+*More on my repositories ➡️ [Click here](https://github.com/YOUR_USERNAME?tab=repositories)*
+
+---
+
+## 📫 Let's Connect
+
+- 📧 Email: mathanpravin122@gmail.com  
+- 💼 LinkedIn: [linkedin.com/in/pravin-r-114b09310](https://www.linkedin.com/in/pravin-r-114b09310)
+- 🌍 Portfolio: [yourportfolio.com](https://yourportfolio.com)
+
+---
+
+_Thanks for stopping by! ⭐ Feel free to explore my repositories and drop a star if you find something useful!_
