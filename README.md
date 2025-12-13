@@ -39,7 +39,6 @@ Here are a few highlighted projects:
 
 - 📧 Email: mathanpravin122@gmail.com  
 - 💼 LinkedIn: [linkedin.com/in/pravin-r-114b09310](https://www.linkedin.com/in/pravin-r-114b09310)
-- 🌍 Portfolio: [yourportfolio.com](https://yourportfolio.com)
 
 ---
 
